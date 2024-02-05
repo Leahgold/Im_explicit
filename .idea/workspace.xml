@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f579591b-0003-4317-805f-247cd6c5d433" name="Changes" comment="расширение и сужение">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f579591b-0003-4317-805f-247cd6c5d433" name="Changes" comment="методы арифметики и четности">
+      <change beforePath="$PROJECT_DIR$/src/ArithmeticOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArithmeticOperations1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArithmeticOperations">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="ArithmeticOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArithmeticOperations" />
       <module name="Implicits" />
@@ -94,9 +94,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ArithmeticOperations" />
         <item itemvalue="Application.Box" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -132,11 +132,28 @@
       <option name="project" value="LOCAL" />
       <updated>1707123546110</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="методы арифметики и четности">
+      <option name="closed" value="true" />
+      <created>1707132226763</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707132226763</updated>
+    </task>
+    <task id="LOCAL-00004" summary="методы арифметики и четности">
+      <option name="closed" value="true" />
+      <created>1707132338953</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707132338953</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="расширение и сужение" />
-    <option name="LAST_COMMIT_MESSAGE" value="расширение и сужение" />
+    <MESSAGE value="методы арифметики и четности" />
+    <option name="LAST_COMMIT_MESSAGE" value="методы арифметики и четности" />
   </component>
 </project>
