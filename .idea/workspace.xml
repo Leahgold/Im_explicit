@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f579591b-0003-4317-805f-247cd6c5d433" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Implicits.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="f579591b-0003-4317-805f-247cd6c5d433" name="Changes" comment="расширение и сужение">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,10 +34,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.ArithmeticOperations.executor": "Run",
+    "Application.Box.executor": "Run",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -56,8 +53,25 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\97251\IdeaProjects\Implicits\src\t" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ArithmeticOperations">
+    <configuration name="ArithmeticOperations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArithmeticOperations" />
+      <module name="Implicits" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Box" />
+      <module name="Implicits" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="20" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -80,6 +94,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArithmeticOperations" />
+        <item itemvalue="Application.Box" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -100,6 +116,27 @@
       <option name="presentableId" value="Default" />
       <updated>1707119194474</updated>
     </task>
+    <task id="LOCAL-00001" summary="расширение и сужение">
+      <option name="closed" value="true" />
+      <created>1707123152593</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707123152593</updated>
+    </task>
+    <task id="LOCAL-00002" summary="расширение и сужение">
+      <option name="closed" value="true" />
+      <created>1707123546110</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707123546110</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="расширение и сужение" />
+    <option name="LAST_COMMIT_MESSAGE" value="расширение и сужение" />
   </component>
 </project>
